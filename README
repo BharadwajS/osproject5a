@@ -1,1 +1,4 @@
-Updated : Salini S
+Abstract:
+
+Of companies that had a major loss of business data, 43% never reopen, 51% close within two years, and only 6% will survive long-term. Minimizing the impact of unforeseen events becomes a paramount for any organization to ensure smooth working of Business operations. We propose a Dual Server hot standby system wherein initially, the Main Server takes care of implementing the business operations. At the time of a catastrophic event the Hot standby Server,which has information of all valid transactions until time of disruption of service ,will takeover services of Main server with minimal reduction user experience. The proposed solution will ensure to restore the services running on a disaster affected Server with transaction information no older than 30 seconds prior to crash is lost and secure that, there is no more than 10% reduction in performance of normal running of server. 
+
